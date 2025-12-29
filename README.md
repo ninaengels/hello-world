@@ -1,5 +1,4 @@
 # hello-world
-We will have a conflict
-Because I want to get it. - here
+Because I want to get it. -yes exaclty here
 Playing around with git.
 The first edit was made in the branch.
